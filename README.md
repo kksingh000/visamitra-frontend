@@ -39,4 +39,4 @@ Copy `.env.example` to `.env` and set the backend API URL (pointing to your `vis
 
 ## Author
 
-Krishna Kumar Singh — academic project on stock prediction and crypto trading.
+Krishna Kumar Singh — project to make visa process smooth.
